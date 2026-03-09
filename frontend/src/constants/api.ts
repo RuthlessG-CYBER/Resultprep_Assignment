@@ -1,1 +1,1 @@
-export const API_URL = "http://localhost:4040/api/v1";
+export const API_URL = "https://resultprep-assignment.onrender.com/api/v1";
